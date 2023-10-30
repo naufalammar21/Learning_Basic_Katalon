@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>login_sauce_demo_with_environment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ecc810d9-fcbb-4d65-9787-799dc485a142</testCaseGuid>
+</TestCaseEntity>

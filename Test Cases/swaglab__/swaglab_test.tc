@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>swaglab_test</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d3f30497-8a16-4206-90bc-5758647cfbf8</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cffe6e05-b951-4920-94bf-aa9d289264ba</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'problem_user'</defaultValue>
+      <description></description>
+      <id>cffe6e05-b951-4920-94bf-aa9d289264ba</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+</TestCaseEntity>

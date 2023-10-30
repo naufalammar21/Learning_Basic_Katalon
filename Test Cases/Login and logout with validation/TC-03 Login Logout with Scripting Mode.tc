@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-03 Login Logout with Scripting Mode</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>70d8b394-738c-46fe-9897-d83331b9df8b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Logout</name>
+   <tag></tag>
+   <elementGuidId>864dc12d-bf1d-42a0-b674-43a847b417e3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.menu-custom-area > div.menu-right > ul.lan-menu > li.dropdown > ul.fade-bottom > li:nth-of-type(2) > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Logout')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>50b6f1fb-f98d-4fb2-a375-e1e04aee24b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://upscale.edudev.xyz/member/logout</value>
+      <webElementGuid>2b8224be-f9c4-4e64-a250-4371d6cf13ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Logout</value>
+      <webElementGuid>a5de023a-bbe8-41f2-bfba-5640450e9961</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/nav[@class=&quot;menu-classic menu-fixed menu-one-page align-right menu-transparent light&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;menu-cnt&quot;]/div[@class=&quot;menu-right&quot;]/div[@class=&quot;menu-custom-area&quot;]/div[@class=&quot;menu-right&quot;]/ul[@class=&quot;lan-menu&quot;]/li[@class=&quot;dropdown&quot;]/ul[@class=&quot;fade-bottom&quot;]/li[2]/a[1]</value>
+      <webElementGuid>75bda20f-1c76-4aef-a4ad-9dc23f5102dd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Logout')]</value>
+      <webElementGuid>d9ba09ac-a2b2-4517-bf1d-7627893d255c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profile'])[1]/following::a[1]</value>
+      <webElementGuid>2e4a89bd-5792-4f48-9c6a-2a6eb4c744d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+'])[1]/preceding::a[2]</value>
+      <webElementGuid>64bbefa6-d021-412c-b94a-8a3674cf71dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Logout']/parent::*</value>
+      <webElementGuid>be0c6797-5d3c-4fd9-8c6a-3a5223cf6bee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://upscale.edudev.xyz/member/logout')]</value>
+      <webElementGuid>b24dd227-f8a1-4c44-a38f-09c3d6eba90b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/ul/li/ul/li[2]/a</value>
+      <webElementGuid>fefb3d57-c19e-4665-94ea-1fab251776f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://upscale.edudev.xyz/member/logout' and (text() = 'Logout' or . = 'Logout')]</value>
+      <webElementGuid>0efe4d22-680e-443f-a1ec-f987e3f866e5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

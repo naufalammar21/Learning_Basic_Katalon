@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>local_variable_upscale</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ef4f5b5d-39f9-432a-85de-cb2e486ccaff</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>aa1bbaa7-4721-4937-a910-b4fabb610cc0</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1cd7278c-6325-49e4-8b91-bcf133f0b257</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e7deb254-6c52-4a05-afd7-f8f053c3f5b2</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'http://upscale.edudev.xyz/'</defaultValue>
+      <description></description>
+      <id>aa1bbaa7-4721-4937-a910-b4fabb610cc0</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>'facebook'</defaultValue>
+      <description></description>
+      <id>1cd7278c-6325-49e4-8b91-bcf133f0b257</id>
+      <masked>false</masked>
+      <name>sumber_informasi</name>
+   </variable>
+   <variable>
+      <defaultValue>'Berhasil Mendaftar!'</defaultValue>
+      <description></description>
+      <id>e7deb254-6c52-4a05-afd7-f8f053c3f5b2</id>
+      <masked>false</masked>
+      <name>verifikasi_sucess_regist</name>
+   </variable>
+</TestCaseEntity>
